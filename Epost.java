@@ -24,7 +24,7 @@ public class Epost {
 
     //Användarnamn och lösenord för one.com
     final String username = "programmet@emilohlund.se";
-    final String password = "Emil1234";
+    final String password = "********";
 
     //Skickas via
     String host = "send.one.com";
