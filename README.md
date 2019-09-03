@@ -2,8 +2,8 @@
 Program created for assisting sales in the steelpipes / tubes business.
 
 ## Features
-1. Account registration and sign in
-* So you're able to manage your own color-coded settings in the program.
+* Account registration and sign in
+** So you're able to manage your own color-coded settings in the program.
 2. Automated bug-reporting
 * If a problem occurs, the program catches it with try / catch statements and sends screenshots from the program to the administrator.
 3. Messaging
