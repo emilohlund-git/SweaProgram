@@ -24,7 +24,6 @@ Program created for assisting sales in the steelpipes / tubes business.
 This program has been tested severly throughout all stages. Mostly me clicking around in it and also in production with feedback given via the in-program mail system. 
 
 ## Deployment
-There's no deployment yet so far.
 
 ## Credits
 [Firebase](https://firebase.google.com/) for Database API.
